@@ -23,11 +23,25 @@ My research interests include both technical and theoretical skills of machine l
 * Deep metric learning (geometry learning, contrastive learning, ranking)
 
 
-**News**
+
+News
+------
 [2024.01] - Paper accepted at ICLR 2024 on probabilistic self-supervised learning. [paper](), [code]()
 
-[2023.12] - Paper accepted at NeurIPS XMI on evaluation of feature explanation methods. [paper](), [code]()
+[2023.12] - Paper accepted at NeurIPS XMI 2024 on evaluation of feature explanation methods. [paper](), [code]()
 
-[2023.12] - Paper accepted at ICMLA on uncertainty quantification of deep learning models for genomics sequences. [paper](), [code]()
+[2023.11] - New preprint on robust self-sueprvised learning. [paper](), [code]()
+
+[2023.10] - Paper accepted at ICMLA on uncertainty quantification of deep learning models for genomics sequences. [paper](), [code]()
+
+[2023.08] - Paper accepted at Nature biology on self-supervised model for genomics sequences (Self-GenomeNet). [paper](), [code]()
+
+[2023.08] - Paper accepted at IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB) on neural architecture search for sequence genome. [paper](), [code]()
+
+[2023.08] - Paper accepted at Journal of Medical Image Analysis on Bayesian deep learning for medical image analysis. [paper](), [code]()
+
+[2023.06] - Paper accepted at Journal of Computer Vision and Image Understanding on self-supervised divergence learning. [paper](), [code]()
 
 [2023.05] - Paper accepted at ACL 2023 on self-supervised geometry representation learning. [paper](), [code]()
+
+
