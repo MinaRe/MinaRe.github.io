@@ -17,14 +17,17 @@ Research
 ------
 My research interests include both technical and theoretical skills of machine learning with a focus on its transformative applications within the realm of computer vision, natural language processing (NLP), and healthcare:
 
->* Learning with minimal supervision (semi-supervised learning, positive-unlabeled learning, self-supervised learning)
->* Probabilistic machine learning (scoring rule, Bayesain neural networks, uncertainty estimation)
->* Generative models (GANs, defusion, flow-models)
->* Deep metric learning (geometry learning, contrastive learning, ranking)
+* Learning with minimal supervision (semi-supervised learning, positive-unlabeled learning, self-supervised learning)
+* Probabilistic machine learning (scoring rule, Bayesain neural networks, uncertainty estimation)
+* Generative models (GANs, defusion, flow-models)
+* Deep metric learning (geometry learning, contrastive learning, ranking)
 
 
 **News**
-[2024.01] - Paper accepted at ICLR 2024 
-[2023.12] - Paper accepted at NeurIPS XMI
-[2023.12] - Paper accepted at ICMLA 
-[2023.05] - Paper accepted at ACL 2023
+[2024.01] - Paper accepted at ICLR 2024 on probabilistic self-supervised learning. [paper](), [code]()
+
+[2023.12] - Paper accepted at NeurIPS XMI on evaluation of feature explanation methods. [paper](), [code]()
+
+[2023.12] - Paper accepted at ICMLA on uncertainty quantification of deep learning models for genomics sequences. [paper](), [code]()
+
+[2023.05] - Paper accepted at ACL 2023 on self-supervised geometry representation learning. [paper](), [code]()
