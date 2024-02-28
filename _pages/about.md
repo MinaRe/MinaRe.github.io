@@ -11,8 +11,9 @@ I am a Senior Machine Learning and Data Scientist at Statistics and Data Science
 
 
 
-Research
-======
+**Research**
+#======
+#------
 My research interests include both technical and theoretical skills of machine learning with a focus on its transformative applications within the realm of computer vision, natural language processing (NLP), and healthcare:
 
 Learning with minimal supervision (semi-supervised learning, positive-unlabeled learning, self-supervised learning)
@@ -20,6 +21,6 @@ Probabilistic machine learning (scoring rule, Bayesain neural networks, )
 Generative models (GANs, defusion, flow-models)
 
 
-News
-======
+**News**
+
 [2024.01] - Paper accepted at ICLR 2024 
