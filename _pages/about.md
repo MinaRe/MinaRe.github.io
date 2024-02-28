@@ -19,8 +19,9 @@ My research interests include both technical and theoretical skills of machine l
 
 * Learning with minimal supervision (semi-supervised learning, positive-unlabeled learning, self-supervised learning)
 * Probabilistic machine learning (scoring rule, Bayesain neural networks, uncertainty estimation)
-* Generative models (GANs, defusion, flow-models)
 * Deep metric learning (geometry learning, contrastive learning, ranking)
+* Generative models (GANs, diffusion, flow-models)
+
 
 
 
