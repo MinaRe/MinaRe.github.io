@@ -27,13 +27,15 @@ My research interests include both technical and theoretical skills of machine l
 
 News
 ------
+[2024.04] - Paper accepted at Nature Biology on optimized model architectures for deep learning on genomic data [pdf](), [code]().
+
+[2024.04] - New preprint on self-supervised molecular representations enables antimicrobial discovery. [pdf](), [code]()
+
 [2024.03] - I will be a program committee member for the 2024 ECML-PKDD conference. 
 
 [2024.01] - Paper accepted at ICLR 2024 on probabilistic self-supervised learning. [pdf](), [code]()
 
 [2023.12] - Paper accepted at NeurIPS XMI 2024 on evaluation of feature explanation methods. [pdf](), [code]()
-
-[2023.11] - New preprint on robust self-supervised learning. [pdf](), [code]()
 
 [2023.10] - Paper accepted at ICMLA on uncertainty quantification of deep learning models for genomics sequences. [pdf](), [code]()
 
