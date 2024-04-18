@@ -37,9 +37,9 @@ News
 
 [2023.12] - Paper accepted at NeurIPS XMI 2024 on evaluation of feature explanation methods. [pdf](), [code]()
 
-[2023.10] - Paper accepted at ICMLA on uncertainty quantification of deep learning models for genomics sequences. [pdf](), [code]()
+[2023.10] - Paper accepted at ICMLA on uncertainty quantification of deep learning models for genomics sequences. [pdf](https://ieeexplore.ieee.org/abstract/document/10459803), [code]()
 
-[2023.08] - Paper accepted at Nature Biology on a self-supervised model for genomics sequences (Self-GenomeNet). [pdf](), [code]()
+[2023.08] - Paper accepted at Nature Communication Biology on a self-supervised model for genomics sequences (Self-GenomeNet). [pdf](https://www.nature.com/articles/s42003-023-05310-2), [code](https://github.com/GenomeNet/Self-GenomeNet)
 
 [2023.08] - Paper accepted at IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB) on neural architecture search for sequence genome. [pdf](), [code]()
 
