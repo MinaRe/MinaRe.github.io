@@ -27,9 +27,9 @@ My research interests include both technical and theoretical skills of machine l
 
 News
 ------
-[2024.05] - Paper accepted at ECML-PKDD 2024 entitled "Diversified Ensemble of Independent Sub-Networks for Robust Self-Supervised Representation Learning" [pdf](), [code]().
-
-[2024.05] - Paper accepted at ECML-PKDD 2024 entitled "Attention-Driven Dropout: A Simple Augmentation Method to Improve Self-supervised Contrastive Sentence Embeddings" [pdf](), [code]().
+[2024.05] - two papers accepted at ECML-PKDD 2024:
+* Diversified Ensemble of Independent Sub-Networks for Robust Self-Supervised Representation Learning [pdf](https://arxiv.org/abs/2308.14705), [code](https://github.com/amirvhd/Uncertainty_aware_SSL).
+* Attention-Driven Dropout: A Simple Augmentation Method to Improve Self-supervised Contrastive Sentence Embeddings [pdf](), [code](https://github.com/fstermann/attention-driven-dropout).
 
 [2024.04] - Paper accepted at Nature Biology on optimized model architectures for deep learning on genomic data [pdf](), [code]().
 
