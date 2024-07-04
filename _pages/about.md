@@ -27,7 +27,9 @@ My research interests include both technical and theoretical skills of machine l
 
 News
 ------
-[2024.05] - two papers accepted at ECML-PKDD 2024:
+[2024.07] - Paper entitled “Hyperbolic Contrastive Learning for Document Representations - A Multi-View Approach with Paragraph-level Similarities” accepted at ECAI 2024 [pdf](), [code]().
+
+[2024.05] - Two papers accepted at ECML-PKDD 2024:
 * Diversified Ensemble of Independent Sub-Networks for Robust Self-Supervised Representation Learning [pdf](https://arxiv.org/abs/2308.14705), [code](https://github.com/amirvhd/Uncertainty_aware_SSL).
 * Attention-Driven Dropout: A Simple Augmentation Method to Improve Self-supervised Contrastive Sentence Embeddings [pdf](), [code](https://github.com/fstermann/attention-driven-dropout).
 
