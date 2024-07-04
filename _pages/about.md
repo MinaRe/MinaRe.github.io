@@ -24,10 +24,11 @@ My research interests include both technical and theoretical skills of machine l
 
 
 
-
 News
 ------
 [2024.07] - Paper entitled “Hyperbolic Contrastive Learning for Document Representations - A Multi-View Approach with Paragraph-level Similarities” accepted at [ECAI 2024](https://www.ecai2024.eu/).
+
+[2024.05] - New preprint on Interpretable Layer Pruning for LLM. [pdf](https://arxiv.org/abs/2405.18218).
 
 [2024.05] - Two papers accepted at [ECML-PKDD 2024](https://ecmlpkdd.org/2024/):
 * Diversified Ensemble of Independent Sub-Networks for Robust Self-Supervised Representation Learning [pdf](https://arxiv.org/abs/2308.14705), [code](https://github.com/amirvhd/Uncertainty_aware_SSL).
