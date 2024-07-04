@@ -27,19 +27,19 @@ My research interests include both technical and theoretical skills of machine l
 
 News
 ------
-[2024.07] - Paper entitled “Hyperbolic Contrastive Learning for Document Representations - A Multi-View Approach with Paragraph-level Similarities” accepted at ECAI 2024 [pdf](), [code]().
+[2024.07] - Paper entitled “Hyperbolic Contrastive Learning for Document Representations - A Multi-View Approach with Paragraph-level Similarities” accepted at [ECAI 2024](https://www.ecai2024.eu/).
 
-[2024.05] - Two papers accepted at ECML-PKDD 2024:
+[2024.05] - Two papers accepted at [ECML-PKDD 2024](https://ecmlpkdd.org/2024/):
 * Diversified Ensemble of Independent Sub-Networks for Robust Self-Supervised Representation Learning [pdf](https://arxiv.org/abs/2308.14705), [code](https://github.com/amirvhd/Uncertainty_aware_SSL).
 * Attention-Driven Dropout: A Simple Augmentation Method to Improve Self-supervised Contrastive Sentence Embeddings [pdf](), [code](https://github.com/fstermann/attention-driven-dropout).
 
-[2024.04] - Paper accepted at Nature Biology on optimized model architectures for deep learning on genomic data [pdf](), [code]().
+[2024.04] - Paper accepted at Nature Biology on optimized model architectures for deep learning on genomic data [pdf](https://www.nature.com/articles/s42003-024-06161-1), [code](https://github.com/GenomeNet/Architect).
 
-[2024.04] - New preprint on self-supervised molecular representations enables antimicrobial discovery. [pdf](), [code]()
+[2024.04] - New preprint on self-supervised molecular representations enables antimicrobial discovery. [pdf](https://www.biorxiv.org/content/10.1101/2024.03.11.584456v2.abstract).
 
 [2024.03] - I will be a program committee member for the 2024 ECML-PKDD conference. 
 
-[2024.01] - Paper accepted at ICLR 2024 on probabilistic self-supervised learning. [pdf](), [code]()
+[2024.01] - Paper accepted at ICLR 2024 on probabilistic self-supervised learning. [pdf](https://openreview.net/forum?id=skcTCdJz0f), [code](https://github.com/amirvhd/SSL-sore-rule)
 
 [2023.12] - Paper accepted at NeurIPS XMI 2024 on evaluation of feature explanation methods. [pdf](), [code]()
 
