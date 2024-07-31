@@ -28,6 +28,8 @@ News
 ------
 [2024.07] - Paper entitled “Hyperbolic Contrastive Learning for Document Representations - A Multi-View Approach with Paragraph-level Similarities” accepted at [ECAI 2024](https://www.ecai2024.eu/).
 
+[2024.07] - Paper titled "Uncertainty-Aware Vision Transformers for Medical Image Analysis" accepted at the Uncertainty for Safe Utilization of Machine Learning in Medical Imaging workshop, part of MICCAI 2024.
+
 [2024.05] - New preprint on Interpretable Layer Pruning for LLM. [pdf](https://arxiv.org/abs/2405.18218).
 
 [2024.05] - Two papers accepted at [ECML-PKDD 2024](https://ecmlpkdd.org/2024/):
