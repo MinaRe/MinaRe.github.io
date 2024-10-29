@@ -26,6 +26,12 @@ My research interests include both technical and theoretical skills of machine l
 
 News
 ------
+[2024.05] - Three papers accepted at Medical Imaging Conference 2025
+* Joint image clustering and self-supervised representation learning through debiased contrastive loss.
+* Advancing reliability in self-supervised transformer models through hierarchical mask attention heads.
+* Feasibility assessment of multitasking in MRI neuroimaging analysis: tissue segmentation, cross-modality conversion and bias correction.
+
+
 [2024.07] - Paper entitled “Hyperbolic Contrastive Learning for Document Representations - A Multi-View Approach with Paragraph-level Similarities” accepted at [ECAI 2024](https://www.ecai2024.eu/).
 
 [2024.07] - Paper titled "Uncertainty-Aware Vision Transformers for Medical Image Analysis" accepted at the Uncertainty for Safe Utilization of Machine Learning in Medical Imaging workshop, part of MICCAI 2024.
