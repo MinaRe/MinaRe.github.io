@@ -26,7 +26,7 @@ My research interests include both technical and theoretical skills of machine l
 
 News
 ------
-[2024.05] - Three papers accepted at Medical Imaging Conference 2025
+[2024.10] - Three papers accepted at Medical Imaging Conference 2025
 * Joint image clustering and self-supervised representation learning through debiased contrastive loss.
 * Advancing reliability in self-supervised transformer models through hierarchical mask attention heads.
 * Feasibility assessment of multitasking in MRI neuroimaging analysis: tissue segmentation, cross-modality conversion and bias correction.
