@@ -26,11 +26,12 @@ My research interests include both technical and theoretical skills of machine l
 
 News
 ------
-[2024.10] - Three papers accepted at Medical Imaging Conference 2025
+[2024.11] - The Paper “A Dual-Perspective Approach to Evaluating Feature Attribution Methods” was accepted at TMLR.
+
+[2024.10] - Three papers accepted at the Medical Imaging Conference 2025
 * Joint image clustering and self-supervised representation learning through debiased contrastive loss.
 * Advancing reliability in self-supervised transformer models through hierarchical mask attention heads.
 * Feasibility assessment of multitasking in MRI neuroimaging analysis: tissue segmentation, cross-modality conversion and bias correction.
-
 
 [2024.07] - Paper entitled “Hyperbolic Contrastive Learning for Document Representations - A Multi-View Approach with Paragraph-level Similarities” accepted at [ECAI 2024](https://www.ecai2024.eu/).
 
