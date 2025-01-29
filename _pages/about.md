@@ -26,12 +26,14 @@ My research interests include both technical and theoretical skills of machine l
 
 News
 ------
-[2024.11] - The Paper “A Dual-Perspective Approach to Evaluating Feature Attribution Methods” was accepted at TMLR.
+[2025.01] - The Paper “Calibrating LLMs with Information-Theoretic Evidential Deep Learning” was accepted at [ICLR 2025](https://openreview.net/forum?id=YcML3rJl0N).
+
+[2024.11] - The Paper “A Dual-Perspective Approach to Evaluating Feature Attribution Methods” was accepted at [TMLR](https://openreview.net/forum?id=znlTP5RLur&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)).
 
 [2024.10] - Three papers accepted at the Medical Imaging Conference 2025
-* Joint image clustering and self-supervised representation learning through debiased contrastive loss.
-* Advancing reliability in self-supervised transformer models through hierarchical mask attention heads.
-* Feasibility assessment of multitasking in MRI neuroimaging analysis: tissue segmentation, cross-modality conversion and bias correction.
+* Joint image clustering and self-supervised representation learning through debiased contrastive loss, [Paper](https://spie.org/medical-imaging/presentation/Joint-image-clustering-and-self-supervised-representation-learning-through-debiased/13406-39).
+* Advancing reliability in self-supervised transformer models through hierarchical mask attention heads [Paper](https://spie.org/medical-imaging/presentation/Advancing-reliability-in-self-supervised-transformer-models-through-hierarchical-mask/13406-22).
+* Feasibility assessment of multitasking in MRI neuroimaging analysis: tissue segmentation, cross-modality conversion and bias correction [Paper](https://spie.org/medical-imaging/presentation/Feasibility-assessment-of-multitasking-in-MRI-neuroimaging-analysis--tissue/13410-69).
 
 [2024.07] - Paper entitled “Hyperbolic Contrastive Learning for Document Representations - A Multi-View Approach with Paragraph-level Similarities” accepted at [ECAI 2024](https://www.ecai2024.eu/).
 
