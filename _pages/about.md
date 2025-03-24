@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Machine Learning and Data Scientist at the Statistics and Data Science Department of LMU Munich. Currently, I am the teaching coordinator of the Munich Center for Machine Learning (MCML) and lead the focus group Methods Beyond Supervised Learning at the Statistics Department of LMU Munich. 
+I am a university lecturer and group leader at the Chair of Statistical Learning and Data Science, Department of Statistics, LMU Munich. Currently, I serve as the teaching coordinator for the Munich Center for Machine Learning (MCML) and lead the "Methods Beyond Supervised Learning" focus group at LMU Munich's Statistics Department.
 
-Prior to joining LMU, I was a research fellow at Harvard Medical School, Mass General’s Hospital, Boston, in the group of Hiroyuki Yoshida. During that time, I was conducting research on probabilistic deep learning and robust representation learning for clinical data analysis. I obtained my Ph.D. from the Hasso-Plattner Institute (HPI), Potsdam University robust deep learning models for medical image analysis, advised by Prof. Christoph Meinel. I did my M.Sc. degree in Artificial Intelligence at the Department of Computer Science, Shiraz University and my Bachelor's degree in Computer Science, Software Engineering.
+Before joining LMU, I was a research fellow at Harvard Medical School and Mass General Hospital in Boston, working with Hiroyuki Yoshida's group. During that time, I focused on probabilistic deep learning and robust representation learning for clinical data analysis. I earned my Ph.D. from the Hasso Plattner Institute (HPI) at Potsdam University, where I conducted research on robust deep learning models for medical image analysis under the supervision of Prof. Christoph Meinel. I also hold an M.Sc. in Artificial Intelligence from the Department of Computer Science, Shiraz University, and a Bachelor's degree in Computer Science, Software Engineering.
 
 
 
@@ -26,6 +26,8 @@ My research interests include both technical and theoretical skills of machine l
 
 News
 ------
+[2025.03] - The Paper “Pre-trained molecular representations enable antimicrobial discovery” was accepted at Nature Biology.
+
 [2025.01] - The Paper “Calibrating LLMs with Information-Theoretic Evidential Deep Learning” was accepted at [ICLR 2025](https://openreview.net/forum?id=YcML3rJl0N).
 
 [2024.11] - The Paper “A Dual-Perspective Approach to Evaluating Feature Attribution Methods” was accepted at [TMLR](https://openreview.net/forum?id=znlTP5RLur&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)).
