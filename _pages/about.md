@@ -26,6 +26,8 @@ My research interests include both technical and theoretical skills of machine l
 
 News
 ------
+[2025.03] - My research proposal has been selected for the Amazon Research Award for $ 80,000$ in the AI Safety track. 
+
 [2025.03] - The Paper “Pre-trained molecular representations enable antimicrobial discovery” was accepted at Nature Biology.
 
 [2025.01] - The Paper “Calibrating LLMs with Information-Theoretic Evidential Deep Learning” was accepted at [ICLR 2025](https://openreview.net/forum?id=YcML3rJl0N).
