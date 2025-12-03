@@ -26,6 +26,10 @@ My research interests include both technical and theoretical skills of machine l
 
 News
 ------
+[2025.12] - New paper on Theory of Contrastive Learning for Domain Generalization [Arxiv](https://arxiv.org/pdf/2512.02831). 
+
+[2025.07] - I am a Area Chair of ICLR 2026. 
+
 [2025.03] - My research proposal has been selected for the [Amazon Research Award](https://www.amazon.science/research-awards/recipients) in the Responsible AI track, with a funding amount of $80,000. 
 
 [2025.03] - The Paper “Pre-trained molecular representations enable antimicrobial discovery” was accepted at Nature Biology.
