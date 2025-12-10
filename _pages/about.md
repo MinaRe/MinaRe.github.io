@@ -28,7 +28,9 @@ News
 -------
 [2025.12] - I will be teaching a full-day course on Beep Learning and Unsupervised Learning at the TUM Winter School [IQ-Brain](https://www.uantwerpen.be/en/projects/iq-brain/events/universityofantwerp/winterschool1b/).
 
-[2025.12] - New paper on Theory of Contrastive Learning for Domain Generalization [Arxiv](https://arxiv.org/pdf/2512.02831). 
+[2025.12] - New paper on Theory of Contrastive Learning for Domain Generalization [Arxiv](https://arxiv.org/pdf/2512.02831).
+
+[2025.08] - Together with my student, Ali Parker, we achieved first place in the [MICCAI 2025 UNICORN Challenge](https://unicorn.grand-challenge.org/winners/).  
 
 [2025.07] - I am the Area Chair for ICLR 2026. 
 
