@@ -26,6 +26,10 @@ My research interests include both technical and theoretical skills of machine l
 
 News
 -------
+[2026.06] - The paper "Structured Credal Learning" has been accepted at [UAI 2026](https://www.auai.org/uai2026/). 
+
+[2026.05] - The paper "What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics" has been accepted at [ECML PKDD 2026](https://ecmlpkdd.org/2026/). 
+
 [2026.03] - I am the Area Chair for NeurIPS 2026. 
 
 [2026.02] - New preprint on Decomposing Sources of Error and Uncertainties [Arxiv](https://arxiv.org/pdf/2603.14070).
