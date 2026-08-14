@@ -9,7 +9,7 @@ redirect_from:
 
 I am a university lecturer and group leader at the Chair of Statistical Learning and Data Science, Department of Statistics, LMU Munich. Currently, I serve as the teaching coordinator for the Munich Center for Machine Learning (MCML) and lead the "Methods Beyond Supervised Learning" focus group at LMU Munich's Statistics Department.
 
-Before joining LMU, I was a research fellow at Harvard Medical School and Mass General Hospital in Boston, working with Hiroyuki Yoshida's group. During that time, I focused on probabilistic deep learning and robust representation learning for clinical data analysis. I earned my Ph.D. from the Hasso Plattner Institute (HPI) at Potsdam University, where I conducted research on robust deep learning models for medical image analysis under the supervision of Prof. Christoph Meinel. I also hold an M.Sc. in Artificial Intelligence from the Department of Computer Science, Shiraz University, and a Bachelor's degree in Computer Science, Software Engineering.
+Before joining LMU, I was a research fellow at Harvard Medical School and Mass General Hospital in Boston, working with Hiroyuki Yoshida's group. During that time, I focused on probabilistic deep learning and robust representation learning for clinical data analysis. I earned my Ph.D. from the Hasso Plattner Institute (HPI) at Potsdam University, where I conducted research on robust deep learning models for medical image analysis under the supervision of Prof. Christoph Meinel. I also hold an M.Sc. in Computer Science with ajor of Artificial Intelligence from the Department of Computer Science, Shiraz University, and a Bachelor's degree in Computer Science, Software Engineering.
 
 
 
@@ -26,15 +26,19 @@ My research interests include both technical and theoretical skills of machine l
 
 News
 -------
-[2026.06] - The paper "Structured Credal Learning" has been accepted at [UAI 2026](https://www.auai.org/uai2026/). 
+[2024.05] - Two papers accepted at [CIKM 2026](https://cikm2026.diag.uniroma1.it/):
+* Robust Survival Analysis via Fuzzy Interval Learning, [pdf](), [code]().
+* Contrastive Captioning for Clinical Time-Series[pdf](), [code]().
 
-[2026.05] - The paper "What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics" has been accepted at [ECML PKDD 2026](https://ecmlpkdd.org/2026/). 
+[2026.06] - Our paper "Structured Credal Learning" has been accepted at [UAI 2026](https://www.auai.org/uai2026/). 
+
+[2026.05] - Our paper "What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics" has been accepted at [ECML PKDD 2026](https://ecmlpkdd.org/2026/). 
 
 [2026.03] - I am the Area Chair for NeurIPS 2026. 
 
 [2026.02] - New preprint on Decomposing Sources of Error and Uncertainties [Arxiv](https://arxiv.org/pdf/2603.14070).
 
-[2025.12] - I will be teaching a full-day course on Beep Learning and Unsupervised Learning at the TUM Winter School [IQ-Brain](https://www.uantwerpen.be/en/projects/iq-brain/events/universityofantwerp/winterschool1b/).
+[2025.12] - I will be teaching a full-day course on Deep Learning and Unsupervised Learning at the TUM Winter School [IQ-Brain](https://www.uantwerpen.be/en/projects/iq-brain/events/universityofantwerp/winterschool1b/).
 
 [2025.12] - New paper on Theory of Contrastive Learning for Domain Generalization [Arxiv](https://arxiv.org/pdf/2512.02831).
 
