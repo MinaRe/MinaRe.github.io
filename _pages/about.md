@@ -15,7 +15,7 @@ Before joining LMU, I was a research fellow at Harvard Medical School and Mass G
 
 Research
 ------
-My research interests include both technical and theoretical skills of machine learning with a focus on its transformative applications within the realm of computer vision, natural language processing (NLP), and healthcare:
+My research interests include both technical and theoretical aspects of machine learning, with a focus on its transformative applications within the realm of computer vision, natural language processing (NLP), and healthcare:
 
 * Learning with minimal supervision (semi-supervised learning, positive-unlabeled learning, self-supervised learning)
 * Probabilistic machine learning (scoring rule, Bayesian neural networks, uncertainty estimation)
@@ -26,7 +26,7 @@ My research interests include both technical and theoretical skills of machine l
 
 News
 -------
-[2024.05] - Two papers accepted at [CIKM 2026](https://cikm2026.diag.uniroma1.it/):
+[2026.08] - Two papers accepted at [CIKM 2026](https://cikm2026.diag.uniroma1.it/):
 * Robust Survival Analysis via Fuzzy Interval Learning, [pdf](), [code]().
 * Contrastive Captioning for Clinical Time-Series[pdf](), [code]().
 
