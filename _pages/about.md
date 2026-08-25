@@ -34,17 +34,11 @@ News
 
 [2026.05] - Our paper "What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics" has been accepted at [ECML PKDD 2026](https://ecmlpkdd.org/2026/). 
 
-[2026.03] - I am the Area Chair for NeurIPS 2026. 
-
-[2026.02] - New preprint on Decomposing Sources of Error and Uncertainties [Arxiv](https://arxiv.org/pdf/2603.14070).
-
 [2025.12] - I will be teaching a full-day course on Deep Learning and Unsupervised Learning at the TUM Winter School [IQ-Brain](https://www.uantwerpen.be/en/projects/iq-brain/events/universityofantwerp/winterschool1b/).
 
 [2025.12] - New paper on Theory of Contrastive Learning for Domain Generalization [Arxiv](https://arxiv.org/pdf/2512.02831).
 
 [2025.08] - Together with my student, Ali Parker, we achieved first place in the [MICCAI 2025 UNICORN Challenge](https://unicorn.grand-challenge.org/winners/).  
-
-[2025.07] - I am the Area Chair for ICLR 2026. 
 
 [2025.03] - My research proposal has been selected for the [Amazon Research Award](https://www.amazon.science/research-awards/recipients) in the Responsible AI track, with a funding amount of $80,000. 
 
